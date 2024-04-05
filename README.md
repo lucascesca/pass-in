@@ -3,7 +3,7 @@
 
 # Sobre o Projeto
 
-O pass.in é uma aplicação de gestão de participantes em eventos presenciais que permite ao organizador cadastar um evento e abrir uma página de inscrição para este. Essa aplicação também fornece aos participantes um meio de emissão de credencial para o check-in no dia do evento.
+Pass.in é uma aplicação de gestão de participantes em eventos presenciais que permite ao organizador cadastrar um evento e abrir uma página de inscrição para este. Essa aplicação também fornece aos participantes um meio de emissão de credencial para o check-in no dia do evento.
 
 ## Requisitos 
 ### Funcionais
